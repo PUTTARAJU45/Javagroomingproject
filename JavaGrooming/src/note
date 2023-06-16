@@ -1,0 +1,23 @@
+Anonymous Inner Class;
+----------------------
+1.A Class without any name;
+2.we use Anonymous Inner class with abstract class & interface
+
+syntax: 
+ClassName reference variable=new ClassName(){
+//override abstract methods
+};
+***********************************************************
+Lambda Expressions:
+-------------------
+1.Lambda Expressions is a small block of code which is use to implement 
+functional interface
+2.Marker interface is an Empty interface without any abstract Methods.
+3.Functional Interface is an Interface with only 1 abstract method.
+
+
+syntax:
+InterfaceName reference variable=()-> {
+override the abstract methods ->only implementation
+
+};
